@@ -108,5 +108,3 @@ All practicals were executed in **Snowflake** using uploaded CSV datasets.
 **Kegomoditswe Mahura**  
 _Data Analyst in Training | Applied Mathematics (Hons) | SQL • Excel • Python • Power BI • MySQL • ChatGPT for A-Z Data Analysis Certified (Udemy)_  
 ---
-
-### ⭐ If you found this useful, give this repository a star!
